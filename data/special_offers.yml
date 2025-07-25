@@ -1,0 +1,5 @@
+- type: percentage_discount
+  product_code: R01
+  buy_quantity: 2
+  discount_percent: 50
+  apply_to: 1
